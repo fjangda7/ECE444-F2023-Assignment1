@@ -9,3 +9,7 @@ Activity 2
 Activity 3
 <img width="1364" alt="Screenshot 2023-09-07 at 2 23 38 PM" src="https://github.com/fjangda7/ECE444-F2023-Assignment1/assets/59586270/aaeaddcb-15cc-4eb4-9fea-a1ec94db46aa">
 
+Activity 4
+<img width="1470" alt="Screenshot 2023-09-07 at 2 41 21 PM" src="https://github.com/fjangda7/ECE444-F2023-Assignment1/assets/59586270/c7a81adb-fb7e-4897-8046-0dc7bf59ee11">
+
+
